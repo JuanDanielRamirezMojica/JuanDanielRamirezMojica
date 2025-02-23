@@ -22,11 +22,11 @@ I am an **Industrial Engineer** currently pursuing a **double degree in Systems 
 
 I am working with my team on a **video game project**, which you can check out here:  
 
-<p align="center">
+<div align="center">
   
 <a href="https://ezcles.itch.io/ecos-andinos"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"> </a>
   
-</p>
+</div>
 
 ---
 
