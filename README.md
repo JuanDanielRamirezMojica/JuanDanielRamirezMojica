@@ -100,6 +100,7 @@ I am working with my team on a **video game project**, which you can check out h
 ### 3️⃣ [Project 3 - LP02](https://github.com/JuanDanielRamirezMojica/LP02_juaramirezmo)  
    
 <br>
+
 ---
 
 ## 📊 GitHub Statistics 📊  
