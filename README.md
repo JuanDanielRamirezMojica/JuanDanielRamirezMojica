@@ -19,12 +19,12 @@ I am an **Industrial Engineer** currently pursuing a **double degree in Systems 
 - **Video Game Development**  
 
 🎮 **Current Project:**  🎮
+
 I am working with my team on a **video game project**, which you can check out here:  
 
-
-<a href="https://ezcles.itch.io/ecos-andinos"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"> </a>
-
 <p align="center">
+  
+<a href="https://ezcles.itch.io/ecos-andinos"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"> </a>
   
 </p>
 
@@ -80,14 +80,20 @@ I am working with my team on a **video game project**, which you can check out h
 
 ---
 
-## 📈 GitHub Statistics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanDanielRamirezMojica&show_icons=true&theme=catppuccin_latte)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDanielRamirezMojica&layout=compact&theme=catppuccin_latte)  
+## 📊 GitHub Statistics 📊  
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanDanielRamirezMojica&show_icons=true&theme=catppuccin_latte">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDanielRamirezMojica&layout=compact&theme=catppuccin_latte">
+
+</div>
 
 ---
 
-## 🌎 Contact & Socials  
-📫 **Where to find me?**  
+## 🌎 Contact & Socials 🌎
+**Where to find me?**  
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-daniel-ramirez-ab8311170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
