@@ -3,14 +3,21 @@
 # 👨🏻‍💻 Hi! I'm **Juan Daniel Ramírez Mojica 👨🏻‍💻** 
 </div>
 
-## 💻 About Me 💻 
+
+<div align="justify">
+
+## 💻 About Me 💻  
 I am an **Industrial Engineer** currently pursuing a **double degree in Systems and Computing Engineering** at the **National University of Colombia**. I am passionate about **programming**, **data analysis**, and **machine learning**. I am always eager to learn and grow in these fields to develop innovative solutions.  
 
-📚 **Currently Learning:** 📚
+📚 **Currently Learning:** 📚  
 - **AWS Certified Cloud Practitioner** certification  
 - **Machine Learning** and **Artificial Intelligence**  
 - **Game Development**, **Game Theory**, and **Multi-Agent Systems**  
 - Software development and best practices in **cloud architecture**  
+
+
+</div>
+
 
 🎯 **Professional Interests:**  🎯
 - Developing **data-driven solutions**  
@@ -97,6 +104,7 @@ I am working with my team on a **video game project**, which you can check out h
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-daniel-ramirez-ab8311170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
 
 
  
