@@ -12,7 +12,9 @@ I am an **Industrial Engineer** currently pursuing a **double degree in Systems 
 <br>
 
 📚 **Currently Learning:** 📚  
+
 <br>
+
 - **Machine Learning** and **Artificial Intelligence.**
 - **AWS Certified Cloud Practitioner** certification.    
 - **Game Development**, **Game Theory**, and **Multi-Agent Systems.**  
@@ -26,6 +28,7 @@ I am an **Industrial Engineer** currently pursuing a **double degree in Systems 
 
 🎯 **Professional Interests:**  🎯
 <br>
+
 - Applying **AI and Machine Learning** for decision-making.  
 - **Multi-Agent Systems** and **Game Theory.**
 - Developing **data-driven solutions.**  
@@ -52,6 +55,7 @@ I am working with my team on a **video game project**, which you can check out h
 
 💻 **Programming Languages:**  💻 
 
+<br>
 
 <div align="center">
   
@@ -95,7 +99,7 @@ I am working with my team on a **video game project**, which you can check out h
 
 ### 3️⃣ [Project 3 - LP02](https://github.com/JuanDanielRamirezMojica/LP02_juaramirezmo)  
    
-
+<br>
 ---
 
 ## 📊 GitHub Statistics 📊  
@@ -103,6 +107,7 @@ I am working with my team on a **video game project**, which you can check out h
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=JuanDanielRamirezMojica&show_icons=true&theme=catppuccin_latte">
+  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDanielRamirezMojica&layout=compact&theme=catppuccin_latte">
 
