@@ -8,24 +8,35 @@
 
 ## 💻 About Me 💻  
 I am an **Industrial Engineer** currently pursuing a **double degree in Systems and Computing Engineering** at the **National University of Colombia**. I am passionate about **programming**, **data analysis**, and **machine learning**. I am always eager to learn and grow in these fields to develop innovative solutions.  
+<br>
+<br>
 
 📚 **Currently Learning:** 📚  
-- **AWS Certified Cloud Practitioner** certification  
-- **Machine Learning** and **Artificial Intelligence**  
-- **Game Development**, **Game Theory**, and **Multi-Agent Systems**  
-- Software development and best practices in **cloud architecture**  
+<br>
+- **Machine Learning** and **Artificial Intelligence.**
+- **AWS Certified Cloud Practitioner** certification.    
+- **Game Development**, **Game Theory**, and **Multi-Agent Systems.**  
+- Software development and best practices in **cloud architecture.**  
 
 
 </div>
 
+<br>
+<br>
 
 🎯 **Professional Interests:**  🎯
-- Developing **data-driven solutions**  
-- Applying **AI and Machine Learning** for decision-making  
-- **Multi-Agent Systems** and **Game Theory**  
-- **Video Game Development**  
+<br>
+- Applying **AI and Machine Learning** for decision-making.  
+- **Multi-Agent Systems** and **Game Theory.**
+- Developing **data-driven solutions.**  
+- **Video Game Development.**  
+
+<br>
+<br>
 
 🎮 **Current Project:**  🎮
+
+<br>
 
 I am working with my team on a **video game project**, which you can check out here:  
 
